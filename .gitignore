@@ -5,6 +5,15 @@ __pycache__/
 
 
 chatbotwithUI
+.env 
+
+
+
+*.db
+*.pdf
+.idea/
+.vscode/
+
 
 # C extensions
 *.so
