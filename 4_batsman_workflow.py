@@ -5,9 +5,7 @@ from typing import TypedDict
 from huggingface_hub import login
 import os
 
-os.environ["HF_HOME"] = "D:/REMOVED" 
 
-login(token="REMOVED")
 
 # MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct"
 # MODEL_ID ="Qwen/Qwen2.5-3B-Instruct"

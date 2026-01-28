@@ -15,7 +15,6 @@ from langgraph.checkpoint.memory import MemorySaver
 
 llm = ChatGroq(
     model="llama-3.1-8b-instant",
-    api_key="REMOVED"
 )
 
 
